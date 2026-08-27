@@ -126,11 +126,11 @@ The implementation was validated by:
 ### Load Balancer Security Group
 ![LB Security Group](screenshots/07-loadbalancer-security-group.png)
 
-### Application Through ALB (1)
-![Application 1](screenshots/08-application-through-alb-1.png)
+### Application through Instance 1
+![Application 1](screenshots/08-application-through-instance-1.png)
 
-### Application Through ALB (2)
-![Application 2](screenshots/09-application-through-alb-2.png)
+### Application through Instance 2
+![Application 2](screenshots/09-application-through-instance-2.png)
 
 
 ## Key Learnings
