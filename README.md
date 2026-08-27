@@ -106,48 +106,32 @@ The implementation was validated by:
 ## Project Evidence
 
 ### VPC Resource Map
-
 ![VPC](screenshots/01-vpc-resource-map.png)
 
-### Subnets
-
-![Subnets](screenshots/02-subnets.png)
-
 ### Route Tables
+![Route Tables](screenshots/02-route-tables.png)
 
-![Route Tables](screenshots/03-route-tables.png)
-
-### Internet Gateway
-
-![Internet Gateway](screenshots/04-internet-gateway.png)
-
-### NAT Gateways
-
-![NAT Gateways](screenshots/05-nat-gateways.png)
-
-### EC2 Instances
-
-![EC2](screenshots/06-ec2-instances.png)
-
-### Bastion Host
-
-![Bastion](screenshots/07-bastion-host.png)
+### EC2 Bastion Host
+![Bastion Host](screenshots/03-ec2-bastion-host.png)
 
 ### Security Groups
-
-![Security Groups](screenshots/08-security-groups.png)
+![Security Groups](screenshots/04-security-groups.png)
 
 ### Target Group Health
+![Target Group](screenshots/05-target-group-health.png)
 
-![Target Group](screenshots/09-target-group-health.png)
+### Load Balancer
+![Load Balancer](screenshots/06-load-balancer.png)
 
-### Application Load Balancer
+### Load Balancer Security Group
+![LB Security Group](screenshots/07-loadbalancer-security-group.png)
 
-![ALB](screenshots/10-load-balancer.png)
+### Application Through ALB (1)
+![Application 1](screenshots/08-application-through-alb-1.png)
 
-### Application Through ALB
+### Application Through ALB (2)
+![Application 2](screenshots/09-application-through-alb-2.png)
 
-![Application](screenshots/11-application-through-alb.png)
 
 ## Key Learnings
 
